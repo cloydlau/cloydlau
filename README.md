@@ -1,9 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cloydlau&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<div>LeetCode 进度</div>
+<div>LeetCode progress</div>
 <img style="margin-top:3px;" src="https://leetcode-badge.haozibi.dev/v1cn/solved/cloydlau.svg">
 
-<div>LeetCode 排名</div>
+<div>LeetCode ranking</div>
 <img style="vertical-align:middle" src="https://leetcode-badge.haozibi.dev/v1cn/ranking/cloydlau.svg">
 
 <!--
