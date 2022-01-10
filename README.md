@@ -5,8 +5,8 @@
 <img src="https://leetcode-badge.haozibi.dev/v1cn/ranking/cloydlau.svg">
 
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cloydlau&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloydlau&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+  <img height="164em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cloydlau&layout=compact" />
+  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=cloydlau&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 </p>
 
 <!--
