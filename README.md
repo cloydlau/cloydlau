@@ -1,10 +1,13 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cloydlau&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 <div>LeetCode progress</div>
-<img style="margin-top:3px;" src="https://leetcode-badge.haozibi.dev/v1cn/solved/cloydlau.svg">
+<img src="https://leetcode-badge.haozibi.dev/v1cn/solved/cloydlau.svg">
 
 <div>LeetCode ranking</div>
-<img style="vertical-align:middle" src="https://leetcode-badge.haozibi.dev/v1cn/ranking/cloydlau.svg">
+<img src="https://leetcode-badge.haozibi.dev/v1cn/ranking/cloydlau.svg">
+
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cloydlau&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloydlau&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+</p>
 
 <!--
 **cloydlau/cloydlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
