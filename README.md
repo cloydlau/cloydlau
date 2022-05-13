@@ -7,7 +7,7 @@
 <img src="https://leetcode-badge.haozibi.dev/v1cn/ranking/cloydlau.svg">
 </td>
 <td>
-<img src="https://metrics.lecoq.io/cloydlau?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai">
+<img src="https://metrics.lecoq.io/cloydlau?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit">
 </td>
 </tr>
 </table>
