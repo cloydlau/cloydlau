@@ -4,7 +4,7 @@
       <td><img src="https://api.iconify.design/simple-icons:leetcode.svg?color=%23888888">&nbsp;&nbsp;<a href="https://leetcode.cn/u/cloydlau" target="_blank">leetcode.cn/u/cloydlau</a></td>
     </tr>
     <tr>
-      <td><img src="https://leetcode-badge.haozibi.dev/v1cn/solved/cloydlau.svg"> <img src="https://leetcode-badge.haozibi.dev/v1cn/ranking/cloydlau.svg"></td>
+      <td><img src="https://leetcode-badge.haozibi.dev/v1cn/card/question-process/cloydlau.svg"></td>
     </tr>
   </tbody>
 </table>
